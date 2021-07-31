@@ -62,7 +62,7 @@ body{
 /*||==== Hero Section Design === ||*/
 
 .hero-section{
-    background: url('/images/hero-banner.jpg');
+    background: url('images/hero-banner.jpg');
     background-position: center center;
     background-size: cover;
     padding: 80px 100px;
